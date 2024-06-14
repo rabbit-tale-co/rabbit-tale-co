@@ -19,7 +19,7 @@ We're a small group of friends who love creating things. Our main focus is on ga
 
 ## Core Projects
 
-### Tiny Buddies **mobile gmae** 🐇
+### Mobile Game Tiny Buddies 🐇
 
 TODO:
 
