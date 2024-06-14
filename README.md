@@ -54,7 +54,9 @@ TODO:
 ## Engage with Us
 
 - **Conversations**: [kris@rabbittale.co](mailto:kris@rabbittale.co)
+- **Portfolio** [portfolio.rabbittale.co](https://portfolio.rabbittale.co)
 - **Updates**: [Twitter](https://twitter.com/rabbit-tale-co)
+- **Discord**: [Rabbit Hole 🐇](https://discord.gg/kX7PETs6QT)
 
 ---
 
