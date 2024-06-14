@@ -38,7 +38,7 @@ TODO:
 
 > [!NOTE]
 > - [x] #0
-> - [ ] https://github.com/Star-Owl/daily-mineral-bot/issues/1
+> - [ ] https://github.com/rabbit-tale-co/daily-mineral-bot/issues/1
 > - [ ] Add delight to the experience when all tasks are complete :tada:
 
 ---
@@ -58,4 +58,4 @@ TODO:
 
 ---
 
-✨ Explore the boundless universe of Rabbit Tale Studios 🐇, where dreams are curated into reality. ✨
+⭐️ Explore the boundless universe of Rabbit Tale Studios 🐇, where dreams are curated into reality. ✨
