@@ -13,7 +13,7 @@
 ## Overview
 
 Hey there! Welcome to Rabbit Tale Studios 🐇.
-We're a cozy corner of the internet where art and tech hang out like best buds. Think of us as a playground for every creative soul out there. From doodles to digital masterpieces, from tunes to hoots – if you’ve made it, we’re here to celebrate it.
+We're a small group of friends who love creating things. Our main focus is on games, but in the future, we might expand our portfolio to include web applications.
 
 ---
 
