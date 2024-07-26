@@ -1,8 +1,6 @@
 # Rabbit Tale Studios 🐇
 ![Rabbit Tale Studiios Banner](https://portfolio.rabbittale.co/og.png)
 
-> Bridging the gap between creativity and technology.
-
 ---
 
 **Founders**:
