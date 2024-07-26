@@ -1,4 +1,4 @@
-# Rabbit Tale Studios 🐇
+# Rabbit Tale Studio 🐇
 ![Rabbit Tale Studiios Banner](https://portfolio.rabbittale.co/og.png)
 
 ---
