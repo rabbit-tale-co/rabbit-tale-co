@@ -12,7 +12,7 @@
 
 ## Overview
 
-Hey there! Welcome to Rabbit Tale Studios 🐇.
+Hey there! Welcome to Rabbit Tale Studio 🐇.
 We're a small group of friends who love creating things. Our main focus is on games, but in the future, we might expand our portfolio to include web applications.
 
 ---
