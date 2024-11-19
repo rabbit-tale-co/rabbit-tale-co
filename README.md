@@ -23,15 +23,18 @@ legend:
    - [PC] - PC
    - [Xbox v] - Xbox <version>
    - [PS v] - PlayStation <vesion>
+   - [2D] - 2D game
+   - [3D] - 3D game
  - [P] - Plugin
  - [B] - Bot
  - [MC] - Minecraft
 
-### [G] [M] - Tiny Buddies 🐇 - (Tamagotchi like game
-### [G] [PC] - Soundless - Horror game (more info soon)
+### [G] [M] [2D] - Tiny Buddies 🐇 - (Tamagotchi like game
+### [G] [PC] [3D] - Soundless - Horror game (more info soon)
 ### [B] - Discord Bot
 ### [B] - Telegram Bot
 ### [P] [MC] - Lucky Rabbit (Lootbox minecraft plugin)
+
 
 TODO:
 
