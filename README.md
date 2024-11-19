@@ -17,7 +17,21 @@ We're a small group of friends who love creating things. Our main focus is on ga
 
 ## Core Projects
 
-### Mobile Game - Tiny Buddies 🐇
+legend:
+ - [G] - Game
+   - [M] - Mobile
+   - [PC] - PC
+   - [Xbox v] - Xbox <version>
+   - [PS v] - PlayStation <vesion>
+ - [P] - Plugin
+ - [B] - Bot
+ - [MC] - Minecraft
+
+### [G] [M] - Tiny Buddies 🐇 - (Tamagotchi like game
+### [G] [PC] - Soundless - Horror game (more info soon)
+### [B] - Discord Bot
+### [B] - Telegram Bot
+### [P] [MC] - Lucky Rabbit (Lootbox minecraft plugin)
 
 TODO:
 
@@ -54,5 +68,5 @@ TODO:
 - ⭐️ **Conversations**: [kris@rabbittale.co](mailto:kris@rabbittale.co)
 - ⭐️ **Portfolio**: [portfolio.rabbittale.co](https://portfolio.rabbittale.co)
 - ⭐️ **Updates**: [Twitter](https://twitter.com/rabbit-tale-co)
-- ⭐️ **Discord**: [Rabbit Hole 🐇](https://discord.gg/kX7PETs6QT)
-- ⭐️ **Patreon**: [Tiny Buddies](https://www.patreon.com/TinyBuddies)
+- ⭐️ **Discord**: [Rabbit Hole 🐇](https://discord.gg/RfBydgJpmU)
+- ⭐️ **Patreon**: [Rabbit Tale Studio](https://www.patreon.com/c/rabbittale/membership)
