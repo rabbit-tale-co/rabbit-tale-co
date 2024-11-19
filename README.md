@@ -6,7 +6,6 @@
 **Founders**:
 - [Kris German](https://github.com/rabbit-tale-co)
 - [Aleksander Adrian Flont](https://github.com/SquareShox)
-- [Dawid Wasielke](https://github.com/xterios)
 
 ## Overview
 
