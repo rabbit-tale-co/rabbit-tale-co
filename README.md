@@ -53,9 +53,9 @@ We're a passionate group of friends who believe in the magic of creating digital
 
 | Project | Type | Status | Description |
 |:--------|:-----|:-------|:------------|
-| **🐇 Discord Tiny Rabbit** | Bot | ✅ Active | Feature-rich Discord bot with 11+ modules |
+| **🐇 Discord Bot** | Bot | ✅ Active | Feature-rich Discord bot with 11+ modules |
 | **📱 Telegram Bot** | Bot | 🚧 Development | Smart automation for Telegram communities |
-| **🍀 Lucky Rabbit** | MC Plugin | 🎯 Planning | Exciting lootbox system for Minecraft servers |
+| **🍀 Lucky Rabbit** | MC Plugin | 🚧 Development | Exciting lootbox system for Minecraft servers |
 
 </div>
 
