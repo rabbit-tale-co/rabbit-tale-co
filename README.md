@@ -70,7 +70,7 @@ We're a passionate group of friends who believe in the magic of creating digital
     <td align="center" width="50%">
       <img src="https://github.com/rabbit-tale-co.png" width="100px" alt="Kris German"><br>
       <h3>Kris German</h3>
-      <p><em>Lead Designer & Visionary</em></p>
+      <p><em>Lead Designer</em></p>
       <a href="https://github.com/rabbit-tale-co">
         <img src="https://img.shields.io/badge/GitHub-rabbit--tale--co-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
       </a>
