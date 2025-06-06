@@ -7,7 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FFB6C1?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://portfolio.rabbittale.co)
 [![Discord](https://img.shields.io/badge/Discord-Rabbit%20Hole-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RfBydgJpmU)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/rabbittale_co)
-[![Bluesky](https://img.shields.io/badge/Bluesky-Follow-00A8E8?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/hasiradoo@rabbittale.co)
+[![Bluesky](https://img.shields.io/badge/Bluesky-Follow-00A8E8?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/hasiradoo.rabbittale.co)
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hasiradoo)
 [![Studio Channel](https://img.shields.io/badge/Studio-Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rabbit_tale)
 [![Patreon](https://img.shields.io/badge/Patreon-Support-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/RabbitTale/membership)
@@ -161,7 +161,7 @@ We're a passionate group of friends who believe in the magic of creating digital
 [![Discord Server](https://img.shields.io/badge/Rabbit%20Hole-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RfBydgJpmU)
 [![Telegram Channel](https://img.shields.io/badge/Studio%20Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rabbittale_studio)
 [![Twitter Follow](https://img.shields.io/badge/Follow%20Updates-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/rabbittale_co)
-[![Bluesky Follow](https://img.shields.io/badge/Follow%20on%20Bluesky-00A8E8?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/hasiradoo@rabbittale.co)
+[![Bluesky Follow](https://img.shields.io/badge/Follow%20on%20Bluesky-00A8E8?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/hasiradoo.rabbittale.co)
 
 ### ❤️ Support Our Journey
 
