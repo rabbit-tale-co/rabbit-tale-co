@@ -64,28 +64,32 @@ We're a passionate group of friends who believe in the magic of creating digital
 ## 👨‍💻 Meet the Founders
 
 <div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github.com/rabbit-tale-co.png" width="100px" alt="Kris German"><br>
-      <h3>Kris German</h3>
-      <p><em>Lead Designer</em></p>
-      <a href="https://github.com/rabbit-tale-co">
-        <img src="https://img.shields.io/badge/GitHub-rabbit--tale--co-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github.com/SquareShox.png" width="100px" alt="Aleksander Adrian Flont"><br>
-      <h3>Aleksander Flont</h3>
-      <p><em>Creative Developer</em></p>
-      <a href="https://github.com/SquareShox">
-        <img src="https://img.shields.io/badge/GitHub-SquareShox-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-      </a>
-    </td>
-  </tr>
-</table>
-
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github.com/rabbit-tale-co.png" width="120px" alt="Kris German">
+        <br><br>
+        <strong>Kris German</strong>
+        <br>
+        <em>Lead Designer</em>
+        <br><br>
+        <a href="https://github.com/rabbit-tale-co">
+          <img src="https://img.shields.io/badge/GitHub-rabbit--tale--co-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github.com/SquareShox.png" width="120px" alt="Aleksander Adrian Flont">
+        <br><br>
+        <strong>Aleksander Flont</strong>
+        <br>
+        <em>Creative Developer</em>
+        <br><br>
+        <a href="https://github.com/SquareShox">
+          <img src="https://img.shields.io/badge/GitHub-SquareShox-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
