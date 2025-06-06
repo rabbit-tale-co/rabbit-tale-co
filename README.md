@@ -4,7 +4,7 @@
 
 ![Rabbit Tale Studiios Banner](https://cdn.discordapp.com/splashes/1004735926234271864/60d186cd18b27e1fe9efba5481e42a19.jpg?size=2048)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FFB6C1?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://portfolio.rabbittale.co)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFB6C1?style=for-the-badge&logo=nextdotjs&logoColor=black)](https://portfolio.rabbittale.co)
 [![Discord](https://img.shields.io/badge/Discord-Rabbit%20Hole-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RfBydgJpmU)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/rabbittale_co)
 [![Bluesky](https://img.shields.io/badge/Bluesky-Follow-00A8E8?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/hasiradoo.rabbittale.co)
