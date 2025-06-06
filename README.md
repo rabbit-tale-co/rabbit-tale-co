@@ -158,7 +158,7 @@ We're a passionate group of friends who believe in the magic of creating digital
 ### 🐰 Join Our Community
 
 [![Discord Server](https://img.shields.io/badge/Rabbit%20Hole-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RfBydgJpmU)
-[![Telegram Group](https://img.shields.io/badge/Studio%20Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rabbittale_studio)
+[![Telegram Group](https://img.shields.io/badge/Studio%20Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rabbittale_studio)
 [![Twitter Follow](https://img.shields.io/badge/Follow%20Updates-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/rabbit-tale-co)
 [![Bluesky Follow](https://img.shields.io/badge/Follow%20on%20Bluesky-00A8E8?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/rabbittale.co)
 
