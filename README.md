@@ -153,14 +153,15 @@ We're a passionate group of friends who believe in the magic of creating digital
 ### 💌 Let's Create Something Amazing Together
 
 [![Email](https://img.shields.io/badge/kris@rabbittale.co-FFB6C1?style=for-the-badge&logo=gmail&logoColor=black)](mailto:kris@rabbittale.co)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hasiradoo)
 [![Portfolio](https://img.shields.io/badge/My%20Portfolio-B5E4CA?style=for-the-badge&logo=nextdotjs&logoColor=black)](https://portfolio.rabbittale.co)
 
 ### 🐰 Join Our Community
 
 [![Discord Server](https://img.shields.io/badge/Rabbit%20Hole-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RfBydgJpmU)
-[![Telegram Group](https://img.shields.io/badge/Studio%20Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rabbittale_studio)
+[![Telegram Channel](https://img.shields.io/badge/Studio%20Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rabbittale_studio)
 [![Twitter Follow](https://img.shields.io/badge/Follow%20Updates-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/rabbit-tale-co)
-[![Bluesky Follow](https://img.shields.io/badge/Follow%20on%20Bluesky-00A8E8?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/rabbittale.co)
+[![Bluesky Follow](https://img.shields.io/badge/Follow%20on%20Bluesky-00A8E8?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/kris@rabbittale.co)
 
 ### ❤️ Support Our Journey
 
